@@ -16,6 +16,9 @@ The model was trained on a custom dataset with:
 - Image size: 256x256
 - Framework: Ultralytics YOLOv8 (PyTorch-based)
 
+The gameplay was recorded with a disabled crosshair.
+The videos were then manually split into individual frames, and the targets were annotated in CVAT.
+
 ## Screenshot Capture
 
 Screen capture is performed using the `mss` python library:
