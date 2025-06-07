@@ -31,3 +31,10 @@ Screen capture is performed using the `mss` python library:
 The aimbot first searches for the closest bounding box that contains the target outline color (using an HSV color filter). This helps to avoid false detections.
 After finding the best box, its position is converted into an offset from the center of the screen.  
 This offset is then multiplied by the aimbot speed and used to move the mouse for aiming.
+
+## TODO
+
+- Increase the size of the training dataset
+- Add a GUI for easy configuration and tuning
+- Implement non-linear aiming curve for smoother aiming (instead of linear offset)
+
