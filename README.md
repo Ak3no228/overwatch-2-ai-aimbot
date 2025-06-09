@@ -3,7 +3,7 @@
 
 ## Demo
 
-<img src="overwatch-2-ai-aimbot/demo/predict.jpg" width="50%">
+<img src="overwatch-2-ai-aimbot/demo/predict.jpg" width="70%">
 <p><a href="https://files.catbox.moe/z975q9.mp4">▶ Demo Video</a></p>
 
 ---
