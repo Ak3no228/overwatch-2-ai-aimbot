@@ -4,7 +4,7 @@
 ## Demo
 
 <img src="overwatch-2-ai-aimbot/demo/predict.jpg" width="50%">
-<video src="https://files.catbox.moe/z975q9.mp4" controls width="640"></video>
+<p><a href="https://files.catbox.moe/z975q9.mp4">▶ Demo Video</a></p>
 
 ---
 ## Neural Model
