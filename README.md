@@ -1,5 +1,11 @@
 # Overwatch 2 AI Aimbot
 ---
+
+## Demo
+
+<img src="overwatch-2-ai-aimbot/demo/predict.jpg" width="50%">
+<video src="overwatch-2-ai-aimbot/demo/demo.mp4" controls width="640"></video>
+---
 ## Neural Model
 
 The project uses a YOLOv8s model, trained on a custom Overwatch 2 dataset to detect enemy players.
