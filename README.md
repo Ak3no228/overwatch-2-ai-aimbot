@@ -23,7 +23,7 @@ The model was trained on a custom dataset with:
 - Annotation tools: Cvat
 - Number of images: 510
 - Image size: 256x256
-- Framework: Ultralytics YOLOv8 (PyTorch-based)
+- Framework: Ultralytics YOLOv8s (PyTorch-based)
 
 The gameplay was recorded with a disabled crosshair.
 The videos were then manually split into individual frames, and the targets were annotated in CVAT.
