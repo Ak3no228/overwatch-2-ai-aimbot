@@ -50,8 +50,17 @@ This offset is then multiplied by the aimbot speed and used to move the mouse fo
 - You will need your own **mouse driver** or **Arduino** for mouse control.
 
 ---
+
 ## TODO
 
 - Increase the size of the training dataset
 - Add a GUI for easy configuration
 - Implement non-linear aiming curve for smoother aiming (instead of linear offset)
+
+---
+
+## Disclaimer
+
+This project is provided for educational purposes only.  
+I am not responsible for any account bans or other consequences resulting from using this software in the game.  
+Use it at your own risk.  
